@@ -6,3 +6,4 @@ Developers:
   Angela
   Yesre
   James
+  Noel
