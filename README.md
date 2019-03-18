@@ -7,3 +7,4 @@ Developers:
   Yesre
   James
   Noel
+  Jonats
